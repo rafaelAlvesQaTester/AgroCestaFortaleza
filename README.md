@@ -1,4 +1,4 @@
-# 🌱 ProjetinhoAgro - AgroCesta Fortaleza
+# 🌱 AgroCesta Fortaleza
 
 Projeto de solução tecnológica desenvolvido integando IA para melhorar processos de entrega e recomendação de produtos.
 
