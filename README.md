@@ -8,7 +8,7 @@ Projeto de solução tecnológica desenvolvido integando IA para melhorar proces
 
 - **Nome do projeto**: AgroCesta Fortaleza
 - **Problema resolvido**: Dificuldade em vender ou comprar produtos agrícolas com melhores preços, frescos e de qualidade
-- **Ideia principal da solução**: Criar uma plataforma que conecta vendedores, locais de comercialização, entregadores e clientes, facilitando a comercialização de produtos agrícolas
+- **Ideia principal da solução**: Criar uma plataforma que conecta vendedores, locais de comercialização, entregadores e clientes, facilitando a comercialização de produtos agrícolas em Fortaleza e no em torno.
 - **Uso da IA**: Otimização de rotas de entrega e recomendação personalizada de produtos
 
 ---
