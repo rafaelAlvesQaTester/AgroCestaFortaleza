@@ -7,9 +7,9 @@ Projeto de solução tecnológica desenvolvido integando IA para melhorar proces
 ### Informações Essenciais
 
 - **Nome do projeto**: AgroCesta Fortaleza
-- **Problema resolvido**: [Descreva o problema identificado]
-- **Ideia principal da solução**: [Como você solucionou]
-- **Uso da IA**: [De que forma a inteligência artificial foi utilizada]
+- **Problema resolvido**: Dificuldade em vender ou comprar produtos agrícolas com melhores preços, frescos e de qualidade
+- **Ideia principal da solução**: Criar uma plataforma que conecta vendedores, locais de comercialização, entregadores e clientes, facilitando a comercialização de produtos agrícolas
+- **Uso da IA**: Otimização de rotas de entrega e recomendação personalizada de produtos
 
 ---
 
